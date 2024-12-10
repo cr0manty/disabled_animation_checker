@@ -1,7 +1,7 @@
 name: disabled_animation_checker
 description: "Plugin that check animation status on the platform"
 version: 0.0.1
-homepage:
+homepage: https://github.com/cr0manty/disabled_animation_checker
 
 environment:
   sdk: ^3.5.3
