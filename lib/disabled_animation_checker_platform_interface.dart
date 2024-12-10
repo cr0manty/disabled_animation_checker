@@ -25,6 +25,6 @@ abstract class DisabledAnimationCheckerPlatform extends PlatformInterface {
   }
 
   Future<bool> isAnimationDisabled() {
-    throw UnimplementedError('platformVersion() has not been implemented.');
+    throw UnimplementedError('isAnimationDisabled() has not been implemented.');
   }
 }
